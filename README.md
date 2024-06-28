@@ -32,6 +32,9 @@ Key findings include:
 
 - Trends in rank influence on match outcomes, indicating a more competitive field.
 
+## Power BI Report
+- Available as a file in the repository. Download the Power BI Desktop software and open it there.
+
 ## Links
 
 - **Google Slides Presentation:** [View Presentation](https://docs.google.com/presentation/d/1iepMzTk-FtbHGxYSGngt62Ws9nb3HCAVp0V7HfMedEw/edit#slide=id.g2153746a162_1_42)
